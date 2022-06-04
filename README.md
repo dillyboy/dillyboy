@@ -5,5 +5,6 @@ I am an open minded individual who always seeks for innovative ideas and is flex
 I'm an experienced developer specializing in front-end development with over 8 years of working experience and love to make great looking and user friendly websites.
 
 
-- 🔭 I’m currently working on Angular | React.js | Next.js | Node.js | Express.js | MongoDB
-- 📫 How to reach me on my [website](https://dilshan.pro/).
+- 🖥️ I’m currently working on Angular | React.js | Next.js | Node.js | Express.js | MongoDB
+- 👨 I'm a Developer | Designer | Tech Enthusiast | Gamer | Traveller | A Loving Husband and Father
+- 🌎 Reach me at [dilshan.pro](https://dilshan.pro/).
